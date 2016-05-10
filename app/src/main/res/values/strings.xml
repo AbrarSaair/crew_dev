@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DewCrew</string>
+    <string name="action_done">Done</string>
+    <string name="dialog_title">Add new user</string>
+    <string name="dialog_message">Enter first and last name</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="dialog_first_name_error_message">First name can not be empty</string>
+    <string name="dialog_last_name_error_message">First name can not be empty</string>
+    <string name="fragment_dialog_title">Create new user</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">ADD</string>
+    <string name="enter_first_name">Enter first name</string>
+    <string name="enter_last_name">Enter Last name</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+</resources>
